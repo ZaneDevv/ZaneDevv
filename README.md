@@ -62,5 +62,5 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 #
 ### 📖 Another hobbies
 
-Years ago, I began teaching people and helping them understanding different topics such as mathematics and programming. This is why I dediced to start a YouTube channel full of tutorials and lessons in spite of the fact that I'm not currently uploading any kind of content. 
+Years ago, I began teaching people and helping them understanding different topics such as mathematics and programming. This is why I decided to start a YouTube channel full of tutorials and lessons in spite of the fact that I'm not currently uploading any kind of content. 
 <p style="margin-top: 0;">Although learning languages is not one of my main hobbies, I also enjoy learning them and understanding how other people from other countries and cultures comunicates. Therefore, as a way to learn and enhance my skills in a certain language, I used to make some simple projects in other languages besides English.</p>
