@@ -13,9 +13,6 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
   <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </a>
-<a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-  <img align="left" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-</a>
 <a href="https://www.java.com/en/" target="_blank" title="Java">
   <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </a>
@@ -41,9 +38,6 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 </a>
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux">
   <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</a>
-<a href="https://github.com/" target="_blank" title="Github">
-  <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </a>
 <a href="https://git-scm.com/" target="_blank" title="Git">
   <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
