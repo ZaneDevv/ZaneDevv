@@ -50,7 +50,7 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 </a>
 <br><br><br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=tokyonight" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
           
 #
