@@ -33,7 +33,7 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </a>
 
-<br>
+<br><br>
 
 <p>I used to use not only programming languages but other tools for developers such that:</p>
 <a href="https://unity.com/" target="_blank" title="Unity">
