@@ -7,7 +7,8 @@ I am currently a computer science student while I self-teach some science, mainl
 ### 💻 Tools and languages
 
 I have been programming since 2018, when I was just a 11-years-old kid, some silly videogames thus I found it fascinating how a simple code could make a whole behaviour as if it was magic, so I got interested more and more in it over the years, programming in several programming languages like the next ones:<br><br>
-<a href="https://en.wikipedia.org/wiki/C++" target="_blank" title="C++">
+<p>
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank" title="C++">
   <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
@@ -31,7 +32,8 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </a>
-<br>
+</p>
+
 <p>I used to use not only programming languages but other tools for developers such that:</p>
 <a href="https://unity.com/" target="_blank" title="Unity">
   <img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
