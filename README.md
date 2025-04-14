@@ -33,7 +33,7 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </a>
 
-<br><br>
+##
 
 <p>I used to use not only programming languages but other tools for developers such that:</p>
 <a href="https://unity.com/" target="_blank" title="Unity">
@@ -51,7 +51,9 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 <a href="https://code.visualstudio.com/" target="_blank" title="VisualStudioCode">
   <img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />        
 </a>
-<br><br><br>
+
+##
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
