@@ -2,8 +2,8 @@
 
 I am currently a computer science student while I self-teach some science, mainly mathematics and physics, fields of knowledge that will help me with my life goal.
 <br>I always wonder why things are the way they are, forcing me to go as deep as my brain can into the explanation, looking for answers to everything and making software of things that are already done by other programmer, but I wanted to program it myself to know how it works.
-#
 
+#
 ### 💻 Tools and languages
 
 I have been programming since 2018, when I was just a 11-years-old kid, some silly videogames thus I found it fascinating how a simple code could make a whole behaviour as if it was magic, so I got interested more and more in it over the years, programming in several programming languages like the next ones:<br><br>
@@ -57,9 +57,14 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
-          
+
+#
+### 🗣️ Languages
+
+Although one of my passions is not linguistics, I also enjoy learning new languages and, with it, new cultures. Currently I could say I speak two languages, Spanish (🇪🇸) and English (🇬🇧), but in the future I will learn more languages such as German (🇩🇪), French (🇫🇷) or Italian (🇮🇹).
+        
 #
 ### 📖 Another hobbies
 
-Years ago, I began teaching people and helping them understanding different topics such as mathematics and programming. This is why I decided to start a YouTube channel full of tutorials and lessons in spite of the fact that I'm not currently uploading any kind of content. 
-<p style="margin-top: 0;">Although learning languages is not one of my main hobbies, I also enjoy learning them and understanding how other people from other countries and cultures comunicates. Therefore, as a way to learn and enhance my skills in a certain language, I used to make some simple projects in other languages besides English.</p>
+Years ago, I began teaching people and helping them understanding different topics such as mathematics and programming realizing that I love teaching to people.
+I also enjoy with arts: listeting or even playing some music or drawing on a paper is one of the things I do when I want to wind down after a stressful day.
