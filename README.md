@@ -61,7 +61,8 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 #
 ### 🗣️ Languages
 
-Although linguistics is not one of my passions, I also enjoy learning new languages and, with it, new cultures. Currently I could say I speak two languages, Spanish (🇪🇸) and English (🇬🇧), but in the future I will learn more languages such as German (🇩🇪), French (🇫🇷) or Italian (🇮🇹).
+Although linguistics is not one of my passions, I also enjoy learning new languages and, with it, new cultures. Currently I could say I speak two languages, Spanish (🇪🇸) and English (🇬🇧), but in the future I will learn more languages such as German (🇩🇪), French (🇫🇷) and Italian (🇮🇹).
+I am a curious guys so I always wonder about everything, and this is not an exception. Therefore, in my free time, I study a bit about old-fashioned languages like Latin or old Greek or artificial languages like Esperanto.
         
 #
 ### 📖 Another hobbies
