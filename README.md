@@ -1,10 +1,10 @@
 # 🧠 Get to know ZaneDev
 
-I am currently a computer science student while I self-teach some science, mainly mathematics and physics, fields of knowledge that will help me with my life goal.
+My name is Álvaro Fernández, and I am currently a computer science student while I self-teach some science, mainly mathematics and physics, fields of knowledge that will help me with my life goal.
 <br>I always wonder why things are the way they are, forcing me to go as deep as my brain can into the explanation, looking for answers to everything and making software of things that are already done by other programmer, but I wanted to program it myself to know how it works.
 
 #
-### 💻 Tools and languages
+### 💻 Tools and programming languages
 
 I have been programming since 2018, when I was just a 11-years-old kid, some silly videogames thus I found it fascinating how a simple code could make a whole behaviour as if it was magic, so I got interested more and more in it over the years, programming in several programming languages like the next ones:<br><br>
 
