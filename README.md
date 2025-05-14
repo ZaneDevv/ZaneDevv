@@ -35,7 +35,7 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 
 <br><br>
 
-<p>I used to use not only programming languages but other tools for developers such that:</p>
+<p>I am used to use not only programming languages but other tools for developers such that:</p>
 <a href="https://unity.com/" target="_blank" title="Unity">
   <img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
 </a>
