@@ -4,7 +4,7 @@ My name is Álvaro Fernández, and I am currently a computer science student whi
 <br>I always wonder why things are the way they are, forcing me to go as deep as my brain can into the explanation, looking for answers to everything and making software of things that are already done by other programmer, but I wanted to program it myself to know how it works.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaneDevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ZaneDevv's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaneDevv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ZaneDevv's GitHub stats"/>
 </div>
 
 #
@@ -59,7 +59,7 @@ I have been programming since 2018, when I was just a 11-years-old kid, some sil
 <br><br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDevv&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 #
