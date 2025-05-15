@@ -3,6 +3,10 @@
 My name is Álvaro Fernández, and I am currently a computer science student while I self-teach some science, mainly mathematics and physics, fields of knowledge that will help me with my life goal.
 <br>I always wonder why things are the way they are, forcing me to go as deep as my brain can into the explanation, looking for answers to everything and making software of things that are already done by other programmer, but I wanted to program it myself to know how it works.
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaneDevv8002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 #
 ### 💻 Tools and programming languages
 
