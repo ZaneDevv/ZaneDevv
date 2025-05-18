@@ -10,7 +10,7 @@ My name is Álvaro Fernández, and I am currently a computer science student whi
 #
 ### 💻 Tools and programming languages
 
-I have been programming since 2018, when I was just a 11-years-old kid, some silly videogames thus I found it fascinating how a simple code could make a whole behaviour as if it was magic, so I got interested more and more in it over the years, programming in several programming languages like the next ones:<br><br>
+I have been programming since 2018, when I was just an 11-year-old kid, some silly videogames thus I found it fascinating how a simple code could make a whole behaviour as if it was magic, so I got interested more and more in it over the years, programming in several programming languages like the next ones:<br><br>
 
 <a href="https://en.wikipedia.org/wiki/C++" target="_blank" title="C++">
   <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
