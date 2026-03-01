@@ -18,6 +18,8 @@ I have been programming since 2018, when I was just an 11-year-old kid, some sil
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
+<br>
+
 I am used to use not only programming languages but other tools for developers such that:
 
 <img align="left" alt="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
@@ -25,6 +27,8 @@ I am used to use not only programming languages but other tools for developers s
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 <img align="left" alt="VisualStudio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />        
 <img align="left" alt="VisualStudioCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<br>
 
 
 #
