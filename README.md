@@ -4,6 +4,8 @@ My name is Álvaro Fernández, and I am currently a computer science student whi
 
 I always wonder why things are the way they are, forcing me to go as deep as my brain can into the explanation, looking for answers to everything and making software of things that are already done by other programmer, but I wanted to program it myself to know how it works.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaneDevv&show_icons=true&theme=dracula)
+
 #
 ### 💻 Tools and programming languages
 
