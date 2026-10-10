@@ -5,9 +5,11 @@
 
 Hello there! I am Álvaro Fernández, a computer science students and a self-taught enthusiast of mathematics, physics and engineerings.
 
-I began programming when I was only eleven in the videogames field out of the curiosity videogames gave me. I could not even imagine how it was possible that a few lines of code were able to create a new world from stract with which I can interact and quote unquote live.
+I began programming when I was only eleven years old in the videogames field out of the curiosity they gave me. I could not even imagine how it was possible that a few lines of code were able to create a new world from scratch with which I can interact and quote unquote live in.
 
 After a couple of years self-teaching programming, I saw the importance of mathematics in the world, catching my attention and leading me everntually to learn this subject deeply together with physics.
+
+Now, I have been studying computer sciencie officially for a few years and I am aiming to studying physics at the college and developing some more new insights in programming, like in the field of AI or graphics programming.
 
 ---
 
