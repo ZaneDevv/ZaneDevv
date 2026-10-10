@@ -70,8 +70,6 @@ At this point, I can use regularly two languages:
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=ZaneDevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://streak-stats.demolab.com/?user=ZaneDevv&theme=tokyonight&hide_border=false)
 
 </div>
